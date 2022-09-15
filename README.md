@@ -20,4 +20,4 @@ This project is responsive.
 
 <br>
 
-![alura midi drums](assets/images/readme.gif)
+![alura midi drums](images/readme.gif)
