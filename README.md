@@ -4,7 +4,7 @@
 
 <br>
 
-### <a href="https://aluramidi-mocha.vercel.app/">Visit the project in Versel.</a>
+### <a href="https://aluramidi-mocha.vercel.app/">Visit the project in Vercel.</a>
 
 <br>
 
