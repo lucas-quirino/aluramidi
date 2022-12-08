@@ -1,26 +1,15 @@
-# Playing drums - AluraMIDI 🎵🔊
 
-## Play virtual drums and hear real sounds.
+Vercel link: https://aluramidi-gamma.vercel.app/
 
-<br>
+## Playing drums - AluraMIDI 🎵🔊
 
-### <a href="https://aluramidi-mocha.vercel.app/">Visit the project in Vercel.</a>
+### Play virtual drums and hear real sounds.
 
 <br>
 
 This project was created for the JavaScript course on the Alura platform.
 
 🎼🎼🎼🎼🎼🎼🎼🎼🎼🎼
-
-<br>
-
-### In this work I was able to practice:
-
-* HTML5
-* CSS3
-* JavaScript
-
-This project is responsive.
 
 <br>
 
